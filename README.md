@@ -3,7 +3,7 @@ a modified implementation of Langton's Ants Model
 
 USAGE: no arguments necessary, just run 'python langAnt.py'
 
-To observe long term effects and equilibrium, go to the 'Settings' tab and slide the 'steps' tab all the way to the right to speed up the simulation
+To observe long term effects and equilibrium, go to the 'Settings' tab and slide the 'Step size' tab all the way to the right to speed up the simulation
 
 Adaptations to note:
 
