@@ -1,5 +1,5 @@
 # langton-ants
-a modified implementation of Langton's Ants Model
+a modified implementation of Langton's Ants Model (http://en.wikipedia.org/wiki/Langton_ant)
 
 USAGE: no arguments necessary, just run 'python langAnt.py'
 
@@ -23,3 +23,4 @@ There are several variables that can be modified in langAnt.py to toggle the mod
 	-populationSize: number of ants (ditto above)
 	-proportionTrueLangtons: the proportion of ants which are 'true' Langton's Ants (should be in range [0,1])
 	 
+To run the traditional Langton's Ant model, set populationSize = 1, proportionTrueLangtons = 1

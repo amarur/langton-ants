@@ -15,7 +15,7 @@ RD.seed()
 
 width = 100 #toggle value
 height = 100 #toggle value
-populationSize = 40 #toggle value
+populationSize = 2 #toggle value
 proportionTrueLangtons = 0.5 #toggle value
 
 white = 0 
