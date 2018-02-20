@@ -13,14 +13,13 @@ import scipy as SP
 
 RD.seed()
 
-width = 50
-height = 50
+width = 50 #toggle value
+height = 50 #toggle value
+populationSize = 40 #toggle value
+proportionTrueLangtons = 0.5 #toggle value
 
-white = 0
+white = 0 
 black = 100
-
-populationSize = 40
-proportionTrueLangtons = 1
 
 class Ant:
 	#A read write, quad-directional agent
