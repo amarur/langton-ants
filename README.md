@@ -3,6 +3,8 @@ a modified implementation of Langton's Ants Model
 
 USAGE: no arguments necessary, just run 'python langAnt.py'
 
+To observe long term effects and equilibrium, go to the 'Settings' tab and slide the 'steps' tab all the way to the right to speed up the simulation
+
 Adaptations to note:
 
 	-Wraparound: rather than clipping, this model can be thought of as a globe, since the map wraps around in all directions

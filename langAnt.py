@@ -13,8 +13,8 @@ import scipy as SP
 
 RD.seed()
 
-width = 50 #toggle value
-height = 50 #toggle value
+width = 100 #toggle value
+height = 100 #toggle value
 populationSize = 40 #toggle value
 proportionTrueLangtons = 0.5 #toggle value
 
